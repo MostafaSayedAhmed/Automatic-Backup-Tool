@@ -213,5 +213,5 @@ Automatic-Backup-Tool/
 The project is intentionally kept simple. All backup logic is implemented within a single Bash script using reusable functions for logging and input validation. The script emphasizes readability, maintainability, and proper error handling while demonstrating practical use of common Linux command-line utilities.
 
 ## Commands Used and their functions
-[Project Link](https://github.com/MostafaSayedAhmed/Automatic-Backup-Tool)
+[Project Link]([https://github.com/MostafaSayedAhmed/Automatic-Backup-Tool](https://roadmap.sh/projects/log-archive-tool))
 [Markdown Syntax Reference](https://markdownlivepreview.com/)
